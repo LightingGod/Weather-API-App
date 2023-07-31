@@ -1,0 +1,18 @@
+.LeftBlock{
+    width: 35vw;
+    height: 33rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 1rem;
+    background-image: url("../Images/Lighting-2.jpeg");
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.cityname{
+    text-align: end;
+    color: white;
+    font-family: 'Orbitron', sans-serif;
+}

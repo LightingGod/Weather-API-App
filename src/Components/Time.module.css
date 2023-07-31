@@ -1,0 +1,14 @@
+.textcolour{
+    color: white;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.lastblock{
+    display: flex;
+    flex-direction: column;
+}
+
+.TimeBlock{
+    display: flex;
+    justify-content: space-between;
+}

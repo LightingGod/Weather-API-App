@@ -1,0 +1,65 @@
+.smallblocks{
+    display: flex;
+    justify-content: space-between;
+}
+
+.smallblocks p{
+    color: white;
+    padding: 6px;
+}
+
+.RightBlock{
+    width: 20vw;
+    height: 33rem;
+    background-color: rgba(0, 0, 0, 0.705);
+    padding: 1rem;
+}
+
+.weatherIcon{
+    text-align: center;
+    color: white;
+}
+
+.weatherType{
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.myinput{
+    padding: 6px;
+    margin-top: 10px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background: transparent;
+    border-color: white;
+    color: white;
+}
+
+.myinput:focus{
+    outline: none;
+}
+
+.mybutton{
+    margin-left: 8px;
+    background:none;
+    border:none;
+    color: white;
+}
+
+.formblock{
+    display: flex;
+    justify-content: center;
+}
+
+.location{
+    color: white;
+}
+
+.locationBlock{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
